@@ -11,6 +11,7 @@
 ![226530512-y](https://github.com/Zhikadai/library/assets/135758512/28206f57-686b-43b6-820c-ec6084b0caa2)
 ![-y](https://github.com/Zhikadai/library/assets/135758512/46b494f4-4fbc-499d-9cfc-21410279a9fc)
 ![-y](https://github.com/Zhikadai/library/assets/135758512/4214a440-94e6-4a8e-85f5-d10dda130268)
+![-y](https://github.com/Zhikadai/library/assets/135758512/f229c61a-9166-4c10-887a-ef8fe8249d88)
 
 ---
 Раздел статистики который доступен у администратора он может просматривать информацию что было добавлено последний 24 час
@@ -28,4 +29,4 @@
 
 ---
 Оқушының аккаунтындағы кітаптардың ұсыныс жүйесінің беті
-![-y](https://github.com/Zhikadai/library/assets/135758512/313ef203-74fd-45c2-903e-c5ccd2203205)
+![-y](https://github.com/Zhikadai/library/assets/135758512/b5e12eab-1928-4f47-9638-8fe029063546)
